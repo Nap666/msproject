@@ -1,0 +1,55 @@
+{"level":"INFO","time":"2024-06-08T13:59:57.936+0800","caller":"user/user.go:39","msg":"短信平台调用成功，发送短信 info"}
+{"level":"DEBUG","time":"2024-06-08T13:59:57.945+0800","caller":"user/user.go:40","msg":"短信平台调用成功，发送短信 debug"}
+{"level":"ERROR","time":"2024-06-08T13:59:57.945+0800","caller":"user/user.go:41","msg":"短信平台调用成功，发送短信 error"}
+{"level":"INFO","time":"2024-06-08T15:40:31.740+0800","caller":"user/user.go:39","msg":"短信平台调用成功，发送短信 info"}
+{"level":"DEBUG","time":"2024-06-08T15:40:31.741+0800","caller":"user/user.go:40","msg":"短信平台调用成功，发送短信 debug"}
+{"level":"ERROR","time":"2024-06-08T15:40:31.742+0800","caller":"user/user.go:41","msg":"短信平台调用成功，发送短信 error"}
+{"level":"INFO","time":"2024-06-09T16:54:37.615+0800","caller":"login.service.v1/login.service.go:37","msg":"短信平台调用成功，发送短信"}
+{"level":"INFO","time":"2024-06-09T22:21:40.297+0800","caller":"login.service.v1/login.service.go:37","msg":"短信平台调用成功，发送短信"}
+{"level":"INFO","time":"2024-06-09T22:22:37.722+0800","caller":"login.service.v1/login.service.go:37","msg":"短信平台调用成功，发送短信"}
+{"level":"INFO","time":"2024-06-09T22:43:29.120+0800","caller":"login.service.v1/login.service.go:37","msg":"短信平台调用成功，发送短信"}
+{"level":"INFO","time":"2024-06-09T22:44:00.643+0800","caller":"login.service.v1/login.service.go:37","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-10T17:51:32.666+0800","caller":"login.service.v1/login.service.go:59","msg":"Register redis get error","error":"redis: nil"}
+{"level":"ERROR","time":"2024-06-10T17:58:23.240+0800","caller":"login.service.v1/login.service.go:59","msg":"Register redis get error","error":"redis: nil"}
+{"level":"ERROR","time":"2024-06-10T18:03:06.312+0800","caller":"login.service.v1/login.service.go:59","msg":"Register redis get error","error":"redis: nil"}
+{"level":"INFO","time":"2024-06-10T18:03:28.780+0800","caller":"login.service.v1/login.service.go:40","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-10T18:04:14.363+0800","caller":"login.service.v1/login.service.go:96","msg":"Register Mobile  has exit"}
+{"level":"INFO","time":"2024-06-10T18:45:17.792+0800","caller":"login.service.v1/login.service.go:46","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-10T22:51:51.171+0800","caller":"discovery/discovery.go:118","msg":"register failed","error":"context deadline exceeded"}
+{"level":"INFO","time":"2024-06-10T22:58:56.981+0800","caller":"login.service.v1/login.service.go:46","msg":"短信平台调用成功，发送短信"}
+{"level":"INFO","time":"2024-06-10T23:00:00.099+0800","caller":"login.service.v1/login.service.go:46","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-10T23:00:00.847+0800","caller":"login.service.v1/login.service.go:133","msg":"register SaveOrganization db err","error":"Error 1406 (22001): Data too long for column 'avatar' at row 1"}
+{"level":"INFO","time":"2024-06-11T00:29:12.287+0800","caller":"login.service.v1/login.service.go:51","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-11T00:29:13.611+0800","caller":"login.service.v1/login.service.go:141","msg":"register SaveOrganization db err","error":"Error 1406 (22001): Data too long for column 'avatar' at row 1"}
+{"level":"INFO","time":"2024-06-11T00:29:48.672+0800","caller":"login.service.v1/login.service.go:51","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-11T15:38:56.435+0800","caller":"login.service.v1/login.service.go:163","msg":"Login db FindMember error","error":"invalid value, should be pointer to struct or slice"}
+{"level":"ERROR","time":"2024-06-11T15:40:20.551+0800","caller":"login.service.v1/login.service.go:163","msg":"Login db FindMember error","error":"invalid value, should be pointer to struct or slice"}
+{"level":"ERROR","time":"2024-06-11T15:40:28.000+0800","caller":"login.service.v1/login.service.go:163","msg":"Login db FindMember error","error":"invalid value, should be pointer to struct or slice"}
+{"level":"ERROR","time":"2024-06-11T15:40:38.109+0800","caller":"login.service.v1/login.service.go:163","msg":"Login db FindMember error","error":"invalid value, should be pointer to struct or slice"}
+{"level":"ERROR","time":"2024-06-11T15:58:34.547+0800","caller":"login.service.v1/login.service.go:163","msg":"Login db FindMember error","error":"invalid value, should be pointer to struct or slice"}
+{"level":"ERROR","time":"2024-06-11T15:58:34.547+0800","caller":"discovery/discovery.go:118","msg":"register failed","error":"context deadline exceeded"}
+{"level":"ERROR","time":"2024-06-11T15:59:25.778+0800","caller":"discovery/discovery.go:118","msg":"register failed","error":"context deadline exceeded"}
+{"level":"ERROR","time":"2024-06-11T16:01:41.367+0800","caller":"discovery/discovery.go:118","msg":"register failed","error":"context deadline exceeded"}
+{"level":"ERROR","time":"2024-06-11T16:01:42.212+0800","caller":"login.service.v1/login.service.go:163","msg":"Login db FindMember error","error":"invalid value, should be pointer to struct or slice"}
+{"level":"ERROR","time":"2024-06-11T16:01:54.359+0800","caller":"discovery/discovery.go:118","msg":"register failed","error":"etcdserver: requested lease not found"}
+{"level":"ERROR","time":"2024-06-11T16:02:19.446+0800","caller":"login.service.v1/login.service.go:163","msg":"Login db FindMember error","error":"invalid value, should be pointer to struct or slice"}
+{"level":"ERROR","time":"2024-06-11T16:04:01.572+0800","caller":"login.service.v1/login.service.go:165","msg":"Login db FindMember error","error":"invalid value, should be pointer to struct or slice"}
+{"level":"INFO","time":"2024-06-11T16:12:24.572+0800","caller":"login.service.v1/login.service.go:55","msg":"短信平台调用成功，发送短信"}
+{"level":"INFO","time":"2024-06-11T16:12:44.109+0800","caller":"login.service.v1/login.service.go:55","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-11T16:12:46.020+0800","caller":"login.service.v1/login.service.go:92","msg":"Register Email  has exit"}
+{"level":"INFO","time":"2024-06-11T16:26:12.083+0800","caller":"login.service.v1/login.service.go:55","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-11T16:26:20.425+0800","caller":"login.service.v1/login.service.go:92","msg":"Register Email  has exit"}
+{"level":"ERROR","time":"2024-06-11T16:26:26.329+0800","caller":"login.service.v1/login.service.go:103","msg":"Register Name has exit"}
+{"level":"ERROR","time":"2024-06-11T16:26:41.959+0800","caller":"login.service.v1/login.service.go:103","msg":"Register Name has exit"}
+{"level":"INFO","time":"2024-06-11T16:27:08.119+0800","caller":"login.service.v1/login.service.go:55","msg":"短信平台调用成功，发送短信"}
+{"level":"INFO","time":"2024-06-11T21:14:46.461+0800","caller":"login.service.v1/login.service.go:55","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-11T21:15:20.042+0800","caller":"login.service.v1/login.service.go:114","msg":"Register Mobile  has exit"}
+{"level":"INFO","time":"2024-06-11T21:15:48.011+0800","caller":"login.service.v1/login.service.go:55","msg":"短信平台调用成功，发送短信"}
+{"level":"ERROR","time":"2024-06-12T20:42:48.798+0800","caller":"login.service.v1/login.service.go:214","msg":"Login TokenVerify err","error":"illegal base64 data at input byte 0"}
+{"level":"ERROR","time":"2024-06-12T20:44:09.188+0800","caller":"login.service.v1/login.service.go:214","msg":"Login TokenVerify err","error":"illegal base64 data at input byte 0"}
+{"level":"ERROR","time":"2024-06-12T20:44:15.970+0800","caller":"login.service.v1/login.service.go:214","msg":"Login TokenVerify err","error":"illegal base64 data at input byte 0"}
+{"level":"ERROR","time":"2024-06-12T20:44:28.994+0800","caller":"login.service.v1/login.service.go:214","msg":"Login TokenVerify err","error":"illegal base64 data at input byte 0"}
+{"level":"ERROR","time":"2024-06-12T21:01:19.734+0800","caller":"login.service.v1/login.service.go:214","msg":"Login TokenVerify err","error":"illegal base64 data at input byte 0"}
+{"level":"ERROR","time":"2024-06-12T21:04:01.183+0800","caller":"login.service.v1/login.service.go:214","msg":"Login TokenVerify err","error":"token contains an invalid number of segments"}
+{"level":"ERROR","time":"2024-06-12T21:05:42.089+0800","caller":"login.service.v1/login.service.go:214","msg":"Login TokenVerify err","error":"token contains an invalid number of segments"}
+{"level":"ERROR","time":"2024-06-13T01:58:41.946+0800","caller":"login.service.v1/login.service.go:221","msg":"TokenVerify db FindMemberById error","error":"record not found"}

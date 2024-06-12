@@ -1,0 +1,9 @@
+go 1.21.6
+
+use (
+	./project-api
+	./project-common
+	./project-user
+	./project-grpc
+	./project-project
+)

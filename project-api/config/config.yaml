@@ -1,0 +1,28 @@
+server:
+  name: "project-api"
+  addr: "127.0.0.1:80"
+
+zap:
+  debugFileName: "C:\\Users\\Nap\\Desktop\\v1\\ms_project\\logs\\debug\\project-debug.log"
+  infoFileName: "C:\\Users\\Nap\\Desktop\\v1\\ms_project\\logs\\info\\project-info.log"
+  warnFileName: "C:\\Users\\Nap\\Desktop\\v1\\ms_project\\logs\\debug\\project-error.log"
+  maxSize: 500,
+  maxAge: 28,
+  MaxBackups: 3
+
+redis:
+  host: "localhost"
+  port: 6379
+  password: ""
+  db: 0
+
+etcd:
+  addrs:
+    - "127.0.0.1:2379"
+
+mysql:
+  username: root
+  password: root
+  host: 127.0.0.1
+  port: 3309
+  db: msproject
